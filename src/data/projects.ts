@@ -45,7 +45,6 @@ export const projects: Project[] = [
     period: '2019/06 – 2020/09',
     role: 'フロントエンド / バックエンド',
     stack: ['TypeScript', 'Node.js'],
-    summary:
-      'バックエンドAPIおよびフロントエンドの実装。APIとの連携処理、UIコンポーネントの設計・実装を担当。',
+    summary: '社内向けの管理ツール群の設計・実装。Node.jsでCLIツールを作成し、業務効率化を実現。',
   },
 ]
