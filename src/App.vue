@@ -13,7 +13,7 @@ const title = 'Full-Stack Engineer / Frontend Focus'
 const links = [
   { label: 'GitHub', url: 'https://github.com/araya113' },
   { label: 'Email', url: 'mailto:yamato120@gmail.com' },
-  { label: 'This Site Repository', url: 'https://github.com/araya113/my-portfolio' },
+  { label: 'This Site Repository', url: 'https://github.com/araya113/yamato-portfolio' },
 ]
 </script>
 
